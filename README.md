@@ -79,7 +79,7 @@ https://docs.aws.amazon.com/codebuild/latest/userguide/concepts.html
 Learn more about AWS CodeStar by reading the user guide.  Ask questions or make
 suggestions on our forum.
 
-User Guide: https://docs.aws.amazon.com/codestar/latest/userguide/welcome.html
+com.aws.codestar.projecttemplates.User Guide: https://docs.aws.amazon.com/codestar/latest/userguide/welcome.html
 
 Forum: https://forums.aws.amazon.com/forum.jspa?forumID=248
 
